@@ -34,4 +34,4 @@ Adjust quantities
 Remove items
 View the total price
 
-You can check my project on here :https://luminous-malabi-6825be.netlify.app
+You can check my project on here :https://e-shop-01.netlify.app/
